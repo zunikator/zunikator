@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zunikator
 - 👀 I’m interested in geography, maps.
-- 🌱 I’m currently learning python and anythong related to GIS.
-- 💞️ I’m looking to collaborate in the future.
+- 🌱 I’m currently learning python and anything related to GIS.
+- 💞️ I’m looking to improve in db areas in future.
 
 
 <!---
